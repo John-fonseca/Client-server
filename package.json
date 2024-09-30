@@ -1,0 +1,13 @@
+{
+  "name": "client-server",
+  "version": "1.0.0",
+  "type": "module", 
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "client": "node client/client.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
