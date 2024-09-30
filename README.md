@@ -13,5 +13,20 @@ Bienvenido a mi proyecto de cliente-servidor en Node.js. Este proyecto permite l
 ### Clonación del Repositorio
 
 ```bash
-git clone 
-cd Client-Servidor
+git clone https://github.com/John-fonseca/Client-server.git
+cd Client-server
+```
+###Instalación de Dependencias
+
+```bash
+npm install
+```
+###Ejecución del Servidor y Cliente
+#1.terminal
+```bash
+node server/server.js
+```
+#2.Terminal
+```bash
+node client/client.js
+```
