@@ -16,17 +16,17 @@ Bienvenido a mi proyecto de cliente-servidor en Node.js. Este proyecto permite l
 git clone https://github.com/John-fonseca/Client-server.git
 cd Client-server
 ```
-###Instalación de Dependencias
+### Instalación de Dependencias
 
 ```bash
 npm install
 ```
-###Ejecución del Servidor y Cliente
-#1.terminal
+### Ejecución del Servidor y Cliente
+# 1.terminal
 ```bash
 node server/server.js
 ```
-#2.Terminal
+# 2.Terminal
 ```bash
 node client/client.js
 ```
